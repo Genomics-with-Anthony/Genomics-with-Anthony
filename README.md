@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony. I have Master Degree from Sweden in Molecular Biology & Bioinformatics 
-- 👀 I’m interested in coding, cycling and cooking and eating food of different cultures.
-- 🌱 I’m currently learning Genomic Data Science Specialization from John Hopkins Institute on Coursera.
-- 💞️ I’m looking to collaborate on Genomic Data Analysis projects
+- 👀 Interested in coding, cycling and cooking and eating food of different cultures.
+- 🌱 Learning Genomic Data Science Specialization from John Hopkins Institute on Coursera.
+- 💞️ Building Genomic Data Analysis projects and open for Collaboration
 - 📫 Let's get connected via email john.anthonyshoukat@gmail.com
 
 <!---
