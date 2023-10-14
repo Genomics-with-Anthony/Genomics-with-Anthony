@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Genomics-with-Anthony. I have Master Degree from Sweden in Molecular Biology & Bioinformatics 
+- 👋 Hi, I’m Anthony. I have Master Degree from Sweden in Molecular Biology & Bioinformatics 
 - 👀 I’m interested in coding, cycling and cooking and eating food of different cultures.
 - 🌱 I’m currently learning Genomic Data Science Specialization from John Hopkins Institute on Coursera.
 - 💞️ I’m looking to collaborate on Genomic Data Analysis projects
